@@ -1,0 +1,14 @@
+
+#include<windows.h>
+
+#include"OGL.h"
+
+MYICON ICON MyIcon.ico    // icon resource
+
+soundName WAVE Song.wav
+
+//MY_SMILEY_BITMAP BITMAP Smiley.bmp
+
+
+
+
