@@ -1,0 +1,22 @@
+
+#include<windows.h>
+
+#include"OGL.h"
+
+MYICON ICON MyIcon.ico    // icon resource
+
+MY_EARTH_BITMAP        BITMAP Earth.bmp         
+MY_BACKGROUND_BITMAP   BITMAP Background.bmp
+MY_JETTEXTURE_BITMAP   BITMAP jet_texture.bmp
+MY_INTROIMAGE_BITMAP   BITMAP Intro_Image.bmp
+
+MY_0LAST_BITMAP   BITMAP 0Last.bmp
+MY_1LAST_BITMAP   BITMAP 1Last.bmp
+MY_2LAST_BITMAP   BITMAP 2Last.bmp
+MY_3LAST_BITMAP   BITMAP 3Last.bmp
+
+
+
+
+
+
