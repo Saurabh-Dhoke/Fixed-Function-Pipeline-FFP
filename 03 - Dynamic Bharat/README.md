@@ -1,18 +1,22 @@
-# Julia-set-OpenGL-GLSL
+# Dynamic Bharat
 
 # Output Link : 
-https://www.youtube.com/watch?v=tA8qqiGf8EIa
+   https://www.youtube.com/watch?v=M0V2sL3xJdM&list=PLcS0ag10H8oakuDcizodPQahjAuYywVvz&index=7  
 
 # Description : 
-    The Julia Set Fractal is a type of fractal defined by the behavior of a function that operates on input complex numbers. 
-            A Fractal is a type of mathematical shape that are infinitely complex. In essence, a Fractal is a pattern that repeats forever, and every part of the Fractal, regardless of how zoomed in, or zoomed out you are, it looks very similar to the whole image.
-
-# Reference : Super Bibal 7th ediition 
+       This project is a graphical demo titled "Incredible Bharat", created as an assignment
+    using the Fixed Function Pipeline (FFP) in OpenGL. 
+    
+# Our learnings from this demo:
+    OpenGL Transformations
+    3D shapes 
+    Texture
+    Viewing Transformation
+    Using PlaySound() as resource file
 
 # Technical Details : 
-    Rendering API        : OpenGL
+    Rendering API        : OpenGL FFP
     Programming Language : C++ 
-    Shading Language     : GLSL
     Operating System     : Windows 10
     CPU                  : Intel(R) Core(TM) i5-6200U 
     GPU                  : AMD Radeon (TM) R5 M330
