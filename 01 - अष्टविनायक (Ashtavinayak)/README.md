@@ -49,16 +49,16 @@
     Audacity
 
 # Song Credits  :  
-    Song                : Ashtavinayak Tuza Mahima Kasa
+    Song               : Ashtavinayak Tuza Mahima Kasa
     Album              : Ashtavinayak
-    Artist                : Anuradha, 
-                                Jaywant Kulkarni,
-                                Chanda Shekhar Gadgil,
-                                Pt. Sharad Jambhekar,
-                                Chorus, 
-                                Mallesh
-    Music Director : Anil-Arun
-    Lyricist               : Jagdish Khebudkar
+    Artist             : Anuradha, 
+                         Jaywant Kulkarni,
+                         Chanda Shekhar Gadgil,
+                         Pt. Sharad Jambhekar,
+                         Chorus, 
+                         Mallesh
+    Music Director     : Anil-Arun
+    Lyricist           : Jagdish Khebudkar
 
 # Technical Details : 
     Rendering API        : OpenGL (FFP)
