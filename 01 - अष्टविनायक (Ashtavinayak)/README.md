@@ -8,7 +8,9 @@
   
 # Description : 
     Hello All, 🙋‍♂️
-    As a part of AstroMediComp's RTR-5.0, this demo was performed as an assignment performed under the guidance of our respected Dr. Vijay D. Gokhale sir. The motive of this demo was to elaborate the use of OpenGL's FFP concepts and Data Structures.
+    As a part of AstroMediComp's RTR-5.0, this demo was performed as an assignment
+    performed under the guidance of our respected Dr. Vijay D. Gokhale sir.
+    The motive of this demo was to elaborate the use of OpenGL's FFP concepts and Data Structures.
     Hope you all enjoy the demo and my journey towards OpenGL core profile  .
 
     - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
