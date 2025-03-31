@@ -1,4 +1,4 @@
-# Julia-set-OpenGL-GLSL
+# अष्टविनायक (Ashtavinayak)
 
 # Output Link : 
   https://www.youtube.com/watch?v=Zbuiw8p6Z08&list=PLcS0ag10H8oakuDcizodPQahjAuYywVvz&index=5
